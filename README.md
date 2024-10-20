@@ -1,1 +1,1 @@
-# Prodigy-ML-03
+This project implements a Support Vector Machine (SVM) to classify images of cats and dogs from the Kaggle Cats and Dogs dataset. The goal is to build a machine learning model that can accurately distinguish between images of cats and dogs.
